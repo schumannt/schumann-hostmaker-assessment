@@ -2,14 +2,14 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 This isn't something I'd recommend for a larger project for for something this size it a lightweight and fast way to rapidly PoC
 
-##PreReq to starting
+## PreReq to starting
 
 npm i
 
-##Running
+## Running
 
 npm start
 
-##Testing
+## Testing
 
 npm test
