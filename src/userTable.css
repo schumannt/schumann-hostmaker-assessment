@@ -1,0 +1,12 @@
+.user-table {
+    margin: 10px;
+    border-collapse:collapse;
+    border: 1px solid darkslategray;
+    display: inline-block;
+}
+.user-table td {
+    padding: 10px;
+    min-width: 200px;
+    float: left;
+    text-align: left;
+ }

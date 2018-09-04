@@ -1,0 +1,14 @@
+.data-table--header {
+    background-color: darkslategray;
+    color: white;
+}
+.data-table--row {
+    padding: 3px;
+}
+.data-table--row__alter {
+    background-color: #57C4C6;
+}
+
+.data-table--row--address {
+    margin: 1px;
+}
